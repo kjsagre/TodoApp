@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Projects\\TodoApp\\Application\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "D:\\Projects\\TodoApp\\Application\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.42.3\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Loop\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "D:\\Projects\\Loop\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.42.3\\res\\xml\\preferences.xml"
+    }
+]
